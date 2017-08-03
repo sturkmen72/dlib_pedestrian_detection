@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>Testing faces</name>
+<comment>These are images from the PASCAL VOC 2011 dataset.</comment>
+<images>
+  <image file='temp32.png'>
+    <box top='24' left='24' width='48' height='96'/>
+    <box top='184' left='24' width='48' height='96'/>
+    <box top='344' left='24' width='48' height='96'/>
+    <box top='504' left='24' width='48' height='96'/>
+    <box top='664' left='24' width='48' height='96'/>
+    <box top='824' left='24' width='48' height='96'/>
+    <box top='24' left='120' width='48' height='96'/>
+    <box top='184' left='120' width='48' height='96'/>
+    <box top='344' left='120' width='48' height='96'/>
+    <box top='504' left='120' width='48' height='96'/>
+    <box top='664' left='120' width='48' height='96'/>
+    <box top='824' left='120' width='48' height='96'/>
+    <box top='24' left='216' width='48' height='96'/>
+    <box top='184' left='216' width='48' height='96'/>
+    <box top='344' left='216' width='48' height='96'/>
+    <box top='504' left='216' width='48' height='96'/>
+    <box top='664' left='216' width='48' height='96'/>
+    <box top='824' left='216' width='48' height='96'/>
+    <box top='24' left='312' width='48' height='96'/>
+    <box top='184' left='312' width='48' height='96'/>
+    <box top='344' left='312' width='48' height='96'/>
+    <box top='504' left='312' width='48' height='96'/>
+    <box top='664' left='312' width='48' height='96'/>
+    <box top='824' left='312' width='48' height='96'/>
+    <box top='24' left='408' width='48' height='96'/>
+    <box top='184' left='408' width='48' height='96'/>
+    <box top='344' left='408' width='48' height='96'/>
+    <box top='504' left='408' width='48' height='96'/>
+    <box top='664' left='408' width='48' height='96'/>
+    <box top='824' left='408' width='48' height='96'/>
+    <box top='24' left='504' width='48' height='96'/>
+    <box top='184' left='504' width='48' height='96'/>
+    <box top='344' left='504' width='48' height='96'/>
+    <box top='504' left='504' width='48' height='96'/>
+    <box top='664' left='504' width='48' height='96'/>
+    <box top='824' left='504' width='48' height='96'/>
+    <box top='24' left='600' width='48' height='96'/>
+    <box top='184' left='600' width='48' height='96'/>
+    <box top='344' left='600' width='48' height='96'/>
+    <box top='504' left='600' width='48' height='96'/>
+    <box top='664' left='600' width='48' height='96'/>
+    <box top='824' left='600' width='48' height='96'/>
+    <box top='24' left='696' width='48' height='96'/>
+    <box top='184' left='696' width='48' height='96'/>
+    <box top='344' left='696' width='48' height='96'/>
+    <box top='504' left='696' width='48' height='96'/>
+    <box top='664' left='696' width='48' height='96'/>
+    <box top='824' left='696' width='48' height='96'/>
+    <box top='24' left='792' width='48' height='96'/>
+    <box top='184' left='792' width='48' height='96'/>
+    <box top='344' left='792' width='48' height='96'/>
+    <box top='504' left='792' width='48' height='96'/>
+    <box top='664' left='792' width='48' height='96'/>
+    <box top='824' left='792' width='48' height='96'/>
+    <box top='24' left='888' width='48' height='96'/>
+    <box top='184' left='888' width='48' height='96'/>
+    <box top='344' left='888' width='48' height='96'/>
+    <box top='504' left='888' width='48' height='96'/>
+    <box top='664' left='888' width='48' height='96'/>
+    <box top='824' left='888' width='48' height='96'/>
+    <box top='24' left='984' width='48' height='96'/>
+    <box top='184' left='984' width='48' height='96'/>
+    <box top='344' left='984' width='48' height='96'/>
+    <box top='504' left='984' width='48' height='96'/>
+    <box top='664' left='984' width='48' height='96'/>
+    <box top='824' left='984' width='48' height='96'/>
+    <box top='24' left='1080' width='48' height='96'/>
+    <box top='184' left='1080' width='48' height='96'/>
+    <box top='344' left='1080' width='48' height='96'/>
+    <box top='504' left='1080' width='48' height='96'/>
+    <box top='664' left='1080' width='48' height='96'/>
+    <box top='824' left='1080' width='48' height='96'/>
+  </image>
+  <image file='temp33.png'>
+    <box top='24' left='24' width='48' height='96'/>
+    <box top='184' left='24' width='48' height='96'/>
+    <box top='344' left='24' width='48' height='96'/>
+    <box top='504' left='24' width='48' height='96'/>
+    <box top='664' left='24' width='48' height='96'/>
+    <box top='824' left='24' width='48' height='96'/>
+    <box top='24' left='120' width='48' height='96'/>
+    <box top='184' left='120' width='48' height='96'/>
+    <box top='344' left='120' width='48' height='96'/>
+    <box top='504' left='120' width='48' height='96'/>
+    <box top='664' left='120' width='48' height='96'/>
+    <box top='824' left='120' width='48' height='96'/>
+    <box top='24' left='216' width='48' height='96'/>
+    <box top='184' left='216' width='48' height='96'/>
+    <box top='344' left='216' width='48' height='96'/>
+    <box top='504' left='216' width='48' height='96'/>
+    <box top='664' left='216' width='48' height='96'/>
+    <box top='824' left='216' width='48' height='96'/>
+    <box top='24' left='312' width='48' height='96'/>
+    <box top='184' left='312' width='48' height='96'/>
+    <box top='344' left='312' width='48' height='96'/>
+    <box top='504' left='312' width='48' height='96'/>
+    <box top='664' left='312' width='48' height='96'/>
+    <box top='824' left='312' width='48' height='96'/>
+    <box top='24' left='408' width='48' height='96'/>
+    <box top='184' left='408' width='48' height='96'/>
+    <box top='344' left='408' width='48' height='96'/>
+    <box top='504' left='408' width='48' height='96'/>
+    <box top='664' left='408' width='48' height='96'/>
+    <box top='824' left='408' width='48' height='96'/>
+    <box top='24' left='504' width='48' height='96'/>
+    <box top='184' left='504' width='48' height='96'/>
+    <box top='344' left='504' width='48' height='96'/>
+    <box top='504' left='504' width='48' height='96'/>
+    <box top='664' left='504' width='48' height='96'/>
+    <box top='824' left='504' width='48' height='96'/>
+  </image>
+</images>
+</dataset>
