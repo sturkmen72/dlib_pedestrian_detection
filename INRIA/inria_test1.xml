@@ -1,0 +1,2473 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>Training pedestrians</name>
+<comment>These are images from the INRIA dataset.</comment>
+<images>
+  <image file='E:/INRIAPerson/Train/pos/crop_000010.png'>
+    <box top='90' left='155' width='297' height='594'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop_000011.png'>
+    <box top='66' left='119' width='284' height='568'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop_000603.png'>
+    <box top='-1' left='15' width='338' height='677'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop_000606.png'>
+    <box top='109' left='132' width='144' height='288'/>
+    <box top='96' left='201' width='138' height='277'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop_000607.png'>
+    <box top='55' left='165' width='311' height='622'/>
+    <box top='19' left='491' width='365' height='731'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop_000608.png'>
+    <box top='107' left='111' width='150' height='301'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001001.png'>
+    <box top='67' left='216' width='340' height='681'/>
+    <box top='299' left='10' width='220' height='441'/>
+    <box top='146' left='87' width='264' height='528'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001002.png'>
+    <box top='195' left='299' width='376' height='753'/>
+    <box top='119' left='541' width='447' height='894'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001003.png'>
+    <box top='75' left='216' width='340' height='680'/>
+    <box top='16' left='367' width='370' height='741'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001004.png'>
+    <box top='94' left='253' width='332' height='665'/>
+    <box top='146' left='366' width='316' height='633'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001005.png'>
+    <box top='133' left='147' width='431' height='862'/>
+    <box top='76' left='260' width='460' height='921'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001006.png'>
+    <box top='73' left='328' width='335' height='670'/>
+    <box top='46' left='473' width='342' height='685'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001007.png'>
+    <box top='202' left='178' width='278' height='557'/>
+    <box top='171' left='318' width='295' height='590'/>
+    <box top='186' left='491' width='295' height='590'/>
+    <box top='246' left='689' width='271' height='542'/>
+    <box top='259' left='858' width='270' height='540'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001008.png'>
+    <box top='277' left='203' width='72' height='145'/>
+    <box top='314' left='351' width='69' height='138'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001009.png'>
+    <box top='132' left='157' width='179' height='358'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001010.png'>
+    <box top='167' left='138' width='298' height='596'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001011.png'>
+    <box top='133' left='125' width='347' height='694'/>
+    <box top='124' left='472' width='346' height='692'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001012.png'>
+    <box top='240' left='273' width='277' height='555'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001013.png'>
+    <box top='121' left='199' width='390' height='781'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001014.png'>
+    <box top='276' left='303' width='240' height='480'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001015.png'>
+    <box top='307' left='226' width='189' height='378'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001016.png'>
+    <box top='304' left='250' width='209' height='418'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001017.png'>
+    <box top='204' left='111' width='401' height='802'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001018.png'>
+    <box top='139' left='120' width='441' height='882'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001019.png'>
+    <box top='113' left='111' width='445' height='891'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001020.png'>
+    <box top='217' left='180' width='381' height='763'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001021.png'>
+    <box top='70' left='311' width='398' height='797'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001022.png'>
+    <box top='224' left='246' width='285' height='571'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001023.png'>
+    <box top='173' left='204' width='361' height='722'/>
+    <box top='188' left='524' width='368' height='737'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001024.png'>
+    <box top='316' left='250' width='348' height='696'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001025.png'>
+    <box top='265' left='268' width='261' height='523'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001026.png'>
+    <box top='233' left='278' width='243' height='486'/>
+    <box top='280' left='471' width='202' height='404'/>
+    <box top='331' left='630' width='72' height='145'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001027.png'>
+    <box top='185' left='267' width='341' height='682'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001028.png'>
+    <box top='231' left='238' width='372' height='745'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001029.png'>
+    <box top='276' left='278' width='249' height='498'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001030.png'>
+    <box top='204' left='228' width='253' height='506'/>
+    <box top='238' left='532' width='196' height='392'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001031.png'>
+    <box top='221' left='269' width='232' height='464'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001032.png'>
+    <box top='187' left='266' width='319' height='638'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001033.png'>
+    <box top='194' left='259' width='406' height='813'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001034.png'>
+    <box top='205' left='254' width='280' height='561'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001035.png'>
+    <box top='151' left='119' width='437' height='874'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001036.png'>
+    <box top='245' left='183' width='260' height='521'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001037.png'>
+    <box top='155' left='192' width='328' height='656'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001038.png'>
+    <box top='308' left='642' width='196' height='393'/>
+    <box top='399' left='389' width='129' height='258'/>
+    <box top='337' left='245' width='161' height='323'/>
+    <box top='323' left='127' width='175' height='350'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001039.png'>
+    <box top='287' left='357' width='267' height='534'/>
+    <box top='269' left='197' width='280' height='560'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001040.png'>
+    <box top='137' left='167' width='217' height='435'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001042.png'>
+    <box top='178' left='222' width='368' height='736'/>
+    <box top='155' left='122' width='296' height='592'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001043.png'>
+    <box top='154' left='39' width='380' height='760'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001044.png'>
+    <box top='122' left='161' width='108' height='217'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001045.png'>
+    <box top='163' left='145' width='76' height='153'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001046.png'>
+    <box top='122' left='150' width='121' height='243'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001047.png'>
+    <box top='181' left='193' width='104' height='208'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001048.png'>
+    <box top='185' left='218' width='176' height='352'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001049.png'>
+    <box top='117' left='166' width='52' height='104'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001050.png'>
+    <box top='237' left='356' width='281' height='563'/>
+    <box top='265' left='166' width='249' height='498'/>
+    <box top='269' left='177' width='94' height='189'/>
+    <box top='275' left='136' width='89' height='179'/>
+    <box top='309' left='361' width='92' height='184'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001051.png'>
+    <box top='241' left='183' width='212' height='424'/>
+    <box top='252' left='140' width='129' height='259'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001052.png'>
+    <box top='158' left='151' width='109' height='218'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001053.png'>
+    <box top='202' left='134' width='389' height='778'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001054.png'>
+    <box top='178' left='264' width='153' height='307'/>
+    <box top='216' left='207' width='58' height='117'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001055.png'>
+    <box top='219' left='85' width='169' height='339'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001056.png'>
+    <box top='167' left='162' width='74' height='148'/>
+    <box top='170' left='241' width='76' height='153'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001057.png'>
+    <box top='172' left='212' width='142' height='284'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001058.png'>
+    <box top='203' left='214' width='374' height='749'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001059.png'>
+    <box top='203' left='115' width='325' height='650'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001060.png'>
+    <box top='227' left='103' width='397' height='794'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001061.png'>
+    <box top='248' left='252' width='229' height='459'/>
+    <box top='354' left='499' width='75' height='150'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001063.png'>
+    <box top='197' left='99' width='326' height='652'/>
+    <box top='300' left='118' width='126' height='253'/>
+    <box top='275' left='56' width='137' height='274'/>
+    <box top='294' left='274' width='134' height='268'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001064.png'>
+    <box top='120' left='102' width='190' height='380'/>
+    <box top='160' left='258' width='181' height='362'/>
+    <box top='115' left='400' width='199' height='398'/>
+    <box top='101' left='538' width='218' height='436'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001066.png'>
+    <box top='145' left='194' width='269' height='538'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001068.png'>
+    <box top='142' left='187' width='237' height='475'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001069.png'>
+    <box top='133' left='146' width='87' height='174'/>
+    <box top='121' left='87' width='75' height='150'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001070.png'>
+    <box top='136' left='158' width='348' height='696'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001071.png'>
+    <box top='222' left='180' width='229' height='459'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001072.png'>
+    <box top='213' left='182' width='320' height='640'/>
+    <box top='298' left='347' width='273' height='547'/>
+    <box top='265' left='415' width='289' height='579'/>
+    <box top='242' left='518' width='290' height='580'/>
+    <box top='239' left='598' width='280' height='560'/>
+    <box top='243' left='746' width='278' height='557'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001073.png'>
+    <box top='174' left='10' width='297' height='595'/>
+    <box top='167' left='220' width='89' height='178'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001074.png'>
+    <box top='188' left='138' width='124' height='248'/>
+    <box top='191' left='187' width='129' height='258'/>
+    <box top='258' left='252' width='119' height='238'/>
+    <box top='304' left='329' width='86' height='173'/>
+    <box top='189' left='363' width='138' height='277'/>
+    <box top='215' left='406' width='132' height='265'/>
+    <box top='195' left='501' width='73' height='147'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001075.png'>
+    <box top='272' left='146' width='108' height='216'/>
+    <box top='181' left='159' width='217' height='434'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001078.png'>
+    <box top='103' left='156' width='138' height='276'/>
+    <box top='116' left='243' width='129' height='259'/>
+    <box top='113' left='354' width='70' height='141'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001079.png'>
+    <box top='333' left='338' width='129' height='258'/>
+    <box top='188' left='333' width='97' height='195'/>
+    <box top='151' left='123' width='237' height='475'/>
+    <box top='210' left='267' width='80' height='161'/>
+    <box top='198' left='306' width='58' height='116'/>
+    <box top='212' left='428' width='50' height='101'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001081.png'>
+    <box top='123' left='125' width='125' height='251'/>
+    <box top='43' left='129' width='60' height='121'/>
+    <box top='44' left='192' width='57' height='115'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001083.png'>
+    <box top='195' left='194' width='255' height='510'/>
+    <box top='224' left='133' width='98' height='196'/>
+    <box top='228' left='29' width='108' height='217'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001084.png'>
+    <box top='253' left='112' width='384' height='768'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001085.png'>
+    <box top='192' left='132' width='168' height='337'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001086.png'>
+    <box top='229' left='158' width='297' height='594'/>
+    <box top='250' left='73' width='212' height='424'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001087.png'>
+    <box top='224' left='72' width='185' height='370'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001088.png'>
+    <box top='128' left='116' width='436' height='872'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001089.png'>
+    <box top='174' left='181' width='349' height='698'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001090.png'>
+    <box top='223' left='268' width='292' height='585'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001091.png'>
+    <box top='146' left='196' width='351' height='702'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001092.png'>
+    <box top='127' left='154' width='410' height='820'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001093.png'>
+    <box top='146' left='390' width='352' height='704'/>
+    <box top='259' left='227' width='316' height='633'/>
+    <box top='184' left='92' width='324' height='649'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001094.png'>
+    <box top='220' left='195' width='242' height='484'/>
+    <box top='222' left='355' width='241' height='482'/>
+    <box top='238' left='500' width='136' height='273'/>
+    <box top='265' left='114' width='110' height='221'/>
+    <box top='244' left='555' width='134' height='269'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001095.png'>
+    <box top='188' left='323' width='300' height='600'/>
+    <box top='107' left='71' width='396' height='793'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001096.png'>
+    <box top='182' left='151' width='218' height='436'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001097.png'>
+    <box top='132' left='287' width='129' height='259'/>
+    <box top='129' left='195' width='125' height='251'/>
+    <box top='154' left='447' width='108' height='216'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001098.png'>
+    <box top='161' left='294' width='118' height='237'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001099.png'>
+    <box top='186' left='131' width='327' height='654'/>
+    <box top='385' left='5' width='234' height='468'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001102.png'>
+    <box top='164' left='59' width='217' height='435'/>
+    <box top='168' left='190' width='113' height='226'/>
+    <box top='162' left='319' width='140' height='280'/>
+    <box top='171' left='404' width='134' height='269'/>
+    <box top='171' left='489' width='123' height='246'/>
+    <box top='162' left='543' width='144' height='289'/>
+    <box top='140' left='587' width='154' height='309'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001103.png'>
+    <box top='180' left='218' width='118' height='236'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001104.png'>
+    <box top='251' left='164' width='230' height='460'/>
+    <box top='396' left='326' width='146' height='292'/>
+    <box top='206' left='49' width='238' height='477'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001105.png'>
+    <box top='294' left='177' width='120' height='241'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001106.png'>
+    <box top='187' left='190' width='254' height='509'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001107.png'>
+    <box top='152' left='175' width='384' height='768'/>
+    <box top='288' left='422' width='343' height='686'/>
+    <box top='218' left='589' width='335' height='670'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001108.png'>
+    <box top='158' left='153' width='154' height='309'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001109.png'>
+    <box top='110' left='184' width='167' height='334'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001110.png'>
+    <box top='271' left='185' width='109' height='219'/>
+    <box top='274' left='233' width='108' height='217'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001111.png'>
+    <box top='241' left='185' width='125' height='250'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001112.png'>
+    <box top='203' left='274' width='57' height='114'/>
+    <box top='197' left='224' width='59' height='118'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001113.png'>
+    <box top='226' left='158' width='277' height='554'/>
+    <box top='27' left='134' width='98' height='197'/>
+    <box top='54' left='414' width='84' height='168'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001114.png'>
+    <box top='197' left='361' width='314' height='629'/>
+    <box top='274' left='243' width='232' height='465'/>
+    <box top='209' left='593' width='301' height='603'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001115.png'>
+    <box top='110' left='208' width='104' height='208'/>
+    <box top='150' left='157' width='82' height='164'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001116.png'>
+    <box top='146' left='360' width='90' height='180'/>
+    <box top='162' left='159' width='85' height='170'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001119.png'>
+    <box top='158' left='71' width='57' height='114'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001120.png'>
+    <box top='141' left='200' width='96' height='193'/>
+    <box top='141' left='239' width='102' height='204'/>
+    <box top='144' left='333' width='96' height='193'/>
+    <box top='169' left='394' width='89' height='178'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001121.png'>
+    <box top='201' left='177' width='81' height='162'/>
+    <box top='150' left='227' width='113' height='226'/>
+    <box top='146' left='325' width='112' height='225'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001122.png'>
+    <box top='178' left='243' width='121' height='243'/>
+    <box top='180' left='179' width='118' height='236'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001123.png'>
+    <box top='119' left='144' width='191' height='382'/>
+    <box top='117' left='211' width='194' height='389'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001124.png'>
+    <box top='160' left='190' width='210' height='420'/>
+    <box top='198' left='330' width='188' height='376'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001125.png'>
+    <box top='222' left='87' width='175' height='350'/>
+    <box top='193' left='206' width='190' height='381'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001126.png'>
+    <box top='162' left='176' width='157' height='315'/>
+    <box top='201' left='278' width='132' height='265'/>
+    <box top='195' left='337' width='130' height='260'/>
+    <box top='194' left='394' width='132' height='265'/>
+    <box top='191' left='448' width='131' height='262'/>
+    <box top='197' left='529' width='128' height='256'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001127.png'>
+    <box top='158' left='342' width='141' height='283'/>
+    <box top='173' left='263' width='107' height='214'/>
+    <box top='130' left='144' width='180' height='361'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001128.png'>
+    <box top='172' left='146' width='324' height='649'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001129.png'>
+    <box top='118' left='53' width='231' height='462'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001130.png'>
+    <box top='152' left='104' width='390' height='780'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001131.png'>
+    <box top='205' left='149' width='318' height='636'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001132.png'>
+    <box top='180' left='128' width='401' height='803'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001133.png'>
+    <box top='169' left='196' width='124' height='249'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001134.png'>
+    <box top='153' left='151' width='170' height='341'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001135.png'>
+    <box top='125' left='127' width='110' height='220'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001136.png'>
+    <box top='150' left='196' width='64' height='128'/>
+    <box top='156' left='227' width='62' height='125'/>
+    <box top='159' left='273' width='58' height='117'/>
+    <box top='161' left='296' width='58' height='116'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001137.png'>
+    <box top='176' left='162' width='229' height='459'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001138.png'>
+    <box top='205' left='176' width='242' height='485'/>
+    <box top='205' left='263' width='260' height='520'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001140.png'>
+    <box top='194' left='121' width='226' height='453'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001141.png'>
+    <box top='172' left='329' width='307' height='614'/>
+    <box top='187' left='122' width='294' height='588'/>
+    <box top='228' left='107' width='100' height='200'/>
+    <box top='168' left='543' width='218' height='436'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001142.png'>
+    <box top='162' left='162' width='169' height='339'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001143.png'>
+    <box top='95' left='143' width='201' height='403'/>
+    <box top='88' left='89' width='173' height='347'/>
+    <box top='63' left='38' width='137' height='274'/>
+    <box top='138' left='248' width='202' height='405'/>
+    <box top='131' left='375' width='184' height='369'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001144.png'>
+    <box top='153' left='322' width='118' height='236'/>
+    <box top='145' left='392' width='115' height='230'/>
+    <box top='126' left='281' width='126' height='253'/>
+    <box top='140' left='235' width='112' height='224'/>
+    <box top='138' left='132' width='113' height='226'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001145.png'>
+    <box top='157' left='221' width='140' height='281'/>
+    <box top='80' left='44' width='120' height='241'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001146.png'>
+    <box top='183' left='192' width='285' height='571'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001147.png'>
+    <box top='112' left='136' width='185' height='371'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001148.png'>
+    <box top='67' left='154' width='71' height='142'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001149.png'>
+    <box top='161' left='182' width='224' height='449'/>
+    <box top='146' left='65' width='217' height='434'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001150.png'>
+    <box top='103' left='150' width='72' height='145'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001151.png'>
+    <box top='201' left='219' width='323' height='646'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001152.png'>
+    <box top='133' left='180' width='434' height='868'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001153.png'>
+    <box top='244' left='253' width='86' height='173'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001154.png'>
+    <box top='104' left='220' width='460' height='921'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001155.png'>
+    <box top='114' left='111' width='444' height='889'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001156.png'>
+    <box top='162' left='106' width='332' height='665'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001158.png'>
+    <box top='73' left='28' width='140' height='281'/>
+    <box top='74' left='134' width='80' height='161'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001160.png'>
+    <box top='63' left='98' width='59' height='118'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001162.png'>
+    <box top='73' left='83' width='142' height='285'/>
+    <box top='80' left='157' width='142' height='284'/>
+    <box top='96' left='237' width='101' height='203'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001163.png'>
+    <box top='75' left='-16' width='158' height='316'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001164.png'>
+    <box top='198' left='128' width='152' height='304'/>
+    <box top='234' left='297' width='122' height='244'/>
+    <box top='237' left='219' width='91' height='182'/>
+    <box top='217' left='348' width='232' height='464'/>
+    <box top='195' left='600' width='218' height='437'/>
+    <box top='178' left='744' width='222' height='444'/>
+    <box top='233' left='502' width='118' height='236'/>
+    <box top='246' left='99' width='58' height='116'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001200.png'>
+    <box top='147' left='163' width='355' height='710'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001201.png'>
+    <box top='251' left='180' width='225' height='450'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001202.png'>
+    <box top='171' left='118' width='345' height='690'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001205.png'>
+    <box top='142' left='219' width='146' height='292'/>
+    <box top='166' left='320' width='120' height='240'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001206.png'>
+    <box top='126' left='109' width='226' height='452'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001207.png'>
+    <box top='91' left='143' width='117' height='234'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001208.png'>
+    <box top='127' left='145' width='149' height='298'/>
+    <box top='136' left='309' width='257' height='514'/>
+    <box top='117' left='286' width='73' height='147'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001210.png'>
+    <box top='120' left='115' width='225' height='450'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001211.png'>
+    <box top='173' left='180' width='340' height='680'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001212.png'>
+    <box top='177' left='157' width='254' height='508'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001213.png'>
+    <box top='195' left='123' width='343' height='686'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001214.png'>
+    <box top='192' left='194' width='153' height='306'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001216.png'>
+    <box top='71' left='133' width='265' height='530'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001217.png'>
+    <box top='125' left='116' width='230' height='461'/>
+    <box top='117' left='97' width='81' height='163'/>
+    <box top='115' left='43' width='74' height='148'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001218.png'>
+    <box top='216' left='65' width='197' height='394'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001219.png'>
+    <box top='123' left='123' width='176' height='353'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001220.png'>
+    <box top='169' left='194' width='192' height='385'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001222.png'>
+    <box top='135' left='168' width='317' height='634'/>
+    <box top='117' left='141' width='111' height='222'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001230.png'>
+    <box top='160' left='161' width='250' height='501'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001231.png'>
+    <box top='146' left='181' width='176' height='353'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001232.png'>
+    <box top='135' left='165' width='381' height='762'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001234.png'>
+    <box top='148' left='153' width='202' height='405'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001235.png'>
+    <box top='149' left='164' width='305' height='611'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001236.png'>
+    <box top='143' left='101' width='172' height='345'/>
+    <box top='135' left='293' width='216' height='433'/>
+    <box top='146' left='448' width='175' height='350'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001237.png'>
+    <box top='122' left='157' width='174' height='348'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001238.png'>
+    <box top='115' left='120' width='192' height='385'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001241.png'>
+    <box top='134' left='188' width='184' height='368'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001242.png'>
+    <box top='133' left='138' width='351' height='702'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001246.png'>
+    <box top='151' left='108' width='203' height='406'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001247.png'>
+    <box top='117' left='137' width='309' height='618'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001248.png'>
+    <box top='156' left='178' width='305' height='611'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001250.png'>
+    <box top='67' left='220' width='392' height='785'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001251.png'>
+    <box top='18' left='136' width='441' height='882'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001252.png'>
+    <box top='109' left='131' width='202' height='404'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001253.png'>
+    <box top='119' left='102' width='391' height='782'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001254.png'>
+    <box top='98' left='-58' width='354' height='709'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001255.png'>
+    <box top='141' left='174' width='216' height='432'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001256.png'>
+    <box top='126' left='177' width='187' height='374'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001257.png'>
+    <box top='119' left='157' width='178' height='356'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001258.png'>
+    <box top='115' left='183' width='208' height='417'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001259.png'>
+    <box top='103' left='123' width='281' height='563'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001260.png'>
+    <box top='153' left='151' width='250' height='500'/>
+    <box top='160' left='213' width='237' height='475'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001263.png'>
+    <box top='117' left='76' width='280' height='560'/>
+    <box top='108' left='104' width='86' height='172'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001264.png'>
+    <box top='75' left='202' width='380' height='760'/>
+    <box top='119' left='71' width='302' height='604'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001265.png'>
+    <box top='99' left='226' width='133' height='267'/>
+    <box top='103' left='362' width='101' height='202'/>
+    <box top='107' left='156' width='82' height='164'/>
+    <box top='86' left='197' width='104' height='209'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001267.png'>
+    <box top='126' left='148' width='114' height='228'/>
+    <box top='137' left='324' width='109' height='219'/>
+    <box top='157' left='491' width='98' height='196'/>
+    <box top='156' left='91' width='88' height='177'/>
+    <box top='147' left='212' width='78' height='156'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001268.png'>
+    <box top='108' left='191' width='112' height='224'/>
+    <box top='112' left='113' width='82' height='165'/>
+    <box top='117' left='318' width='82' height='164'/>
+    <box top='114' left='380' width='102' height='204'/>
+    <box top='131' left='467' width='86' height='173'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001270.png'>
+    <box top='141' left='194' width='137' height='275'/>
+    <box top='193' left='297' width='174' height='348'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001271.png'>
+    <box top='73' left='160' width='114' height='229'/>
+    <box top='93' left='119' width='88' height='177'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001272.png'>
+    <box top='84' left='134' width='140' height='280'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001273.png'>
+    <box top='107' left='546' width='196' height='393'/>
+    <box top='87' left='202' width='178' height='356'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001274.png'>
+    <box top='184' left='117' width='228' height='457'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001275.png'>
+    <box top='153' left='148' width='201' height='403'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001276.png'>
+    <box top='122' left='124' width='392' height='785'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001278.png'>
+    <box top='112' left='36' width='76' height='152'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001500.png'>
+    <box top='100' left='93' width='70' height='141'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001503.png'>
+    <box top='133' left='194' width='70' height='140'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001505.png'>
+    <box top='307' left='728' width='159' height='318'/>
+    <box top='222' left='467' width='312' height='624'/>
+    <box top='306' left='415' width='263' height='526'/>
+    <box top='323' left='270' width='223' height='446'/>
+    <box top='306' left='103' width='172' height='344'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001506.png'>
+    <box top='151' left='156' width='262' height='524'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001507.png'>
+    <box top='270' left='361' width='271' height='542'/>
+    <box top='266' left='168' width='259' height='518'/>
+    <box top='202' left='292' width='265' height='530'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001508.png'>
+    <box top='227' left='356' width='264' height='528'/>
+    <box top='255' left='258' width='227' height='454'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001509.png'>
+    <box top='245' left='327' width='271' height='542'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001510.png'>
+    <box top='181' left='144' width='317' height='635'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001513.png'>
+    <box top='187' left='224' width='200' height='401'/>
+    <box top='188' left='618' width='181' height='363'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001515.png'>
+    <box top='192' left='173' width='114' height='228'/>
+    <box top='210' left='264' width='156' height='313'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001516.png'>
+    <box top='166' left='252' width='341' height='683'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001517.png'>
+    <box top='107' left='131' width='377' height='754'/>
+    <box top='206' left='44' width='141' height='283'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001518.png'>
+    <box top='209' left='138' width='177' height='355'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001519.png'>
+    <box top='186' left='166' width='309' height='618'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001523.png'>
+    <box top='125' left='86' width='89' height='178'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001524.png'>
+    <box top='166' left='503' width='317' height='634'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001525.png'>
+    <box top='211' left='434' width='102' height='205'/>
+    <box top='191' left='246' width='202' height='404'/>
+    <box top='205' left='185' width='150' height='300'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001526.png'>
+    <box top='224' left='426' width='290' height='580'/>
+    <box top='188' left='235' width='309' height='618'/>
+    <box top='197' left='81' width='100' height='200'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001527.png'>
+    <box top='257' left='192' width='189' height='378'/>
+    <box top='277' left='705' width='143' height='286'/>
+    <box top='294' left='440' width='170' height='340'/>
+    <box top='270' left='329' width='113' height='226'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001528.png'>
+    <box top='213' left='188' width='293' height='586'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001529.png'>
+    <box top='152' left='310' width='260' height='520'/>
+    <box top='167' left='459' width='148' height='297'/>
+    <box top='163' left='549' width='111' height='222'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001530.png'>
+    <box top='168' left='361' width='102' height='204'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001532.png'>
+    <box top='248' left='443' width='291' height='582'/>
+    <box top='274' left='256' width='245' height='491'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001534.png'>
+    <box top='244' left='614' width='121' height='243'/>
+    <box top='244' left='255' width='273' height='546'/>
+    <box top='273' left='559' width='74' height='148'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001536.png'>
+    <box top='303' left='227' width='114' height='228'/>
+    <box top='310' left='371' width='81' height='162'/>
+    <box top='313' left='577' width='78' height='156'/>
+    <box top='297' left='109' width='144' height='288'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001537.png'>
+    <box top='217' left='415' width='73' height='147'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001538.png'>
+    <box top='160' left='457' width='132' height='264'/>
+    <box top='185' left='143' width='233' height='466'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001539.png'>
+    <box top='143' left='230' width='108' height='216'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001540.png'>
+    <box top='238' left='405' width='162' height='325'/>
+    <box top='229' left='201' width='129' height='258'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001541.png'>
+    <box top='264' left='242' width='272' height='545'/>
+    <box top='298' left='412' width='145' height='290'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001542.png'>
+    <box top='174' left='206' width='157' height='315'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001543.png'>
+    <box top='131' left='142' width='49' height='99'/>
+    <box top='123' left='287' width='34' height='69'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001547.png'>
+    <box top='97' left='96' width='26' height='53'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001548.png'>
+    <box top='99' left='105' width='41' height='82'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001550.png'>
+    <box top='224' left='338' width='246' height='492'/>
+    <box top='147' left='508' width='240' height='480'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001551.png'>
+    <box top='176' left='116' width='258' height='517'/>
+    <box top='167' left='409' width='250' height='501'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001552.png'>
+    <box top='239' left='147' width='217' height='434'/>
+    <box top='220' left='341' width='228' height='456'/>
+    <box top='235' left='461' width='219' height='438'/>
+    <box top='193' left='591' width='242' height='485'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001553.png'>
+    <box top='152' left='185' width='224' height='449'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001554.png'>
+    <box top='162' left='160' width='178' height='357'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001556.png'>
+    <box top='116' left='165' width='112' height='224'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001557.png'>
+    <box top='247' left='130' width='85' height='171'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001558.png'>
+    <box top='264' left='293' width='77' height='154'/>
+    <box top='286' left='359' width='77' height='155'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001559.png'>
+    <box top='122' left='592' width='225' height='450'/>
+    <box top='154' left='461' width='208' height='416'/>
+    <box top='174' left='358' width='205' height='411'/>
+    <box top='159' left='263' width='200' height='400'/>
+    <box top='144' left='152' width='177' height='354'/>
+    <box top='132' left='87' width='132' height='264'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001560.png'>
+    <box top='218' left='471' width='180' height='360'/>
+    <box top='291' left='274' width='126' height='253'/>
+    <box top='279' left='165' width='134' height='268'/>
+    <box top='286' left='273' width='130' height='261'/>
+    <box top='325' left='710' width='119' height='238'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001561.png'>
+    <box top='232' left='447' width='183' height='366'/>
+    <box top='338' left='560' width='125' height='251'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001562.png'>
+    <box top='54' left='59' width='54' height='108'/>
+    <box top='77' left='189' width='45' height='90'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001563.png'>
+    <box top='145' left='142' width='146' height='293'/>
+    <box top='139' left='248' width='149' height='298'/>
+    <box top='136' left='423' width='156' height='312'/>
+    <box top='126' left='550' width='160' height='320'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001564.png'>
+    <box top='127' left='149' width='145' height='291'/>
+    <box top='184' left='431' width='144' height='288'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001565.png'>
+    <box top='129' left='189' width='148' height='297'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001567.png'>
+    <box top='88' left='86' width='84' height='168'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001568.png'>
+    <box top='160' left='98' width='292' height='584'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001569.png'>
+    <box top='148' left='217' width='253' height='506'/>
+    <box top='127' left='113' width='249' height='498'/>
+    <box top='122' left='600' width='300' height='601'/>
+    <box top='190' left='794' width='310' height='621'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001570.png'>
+    <box top='154' left='239' width='151' height='302'/>
+    <box top='172' left='111' width='96' height='192'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001571.png'>
+    <box top='184' left='201' width='120' height='241'/>
+    <box top='179' left='31' width='74' height='148'/>
+    <box top='185' left='341' width='139' height='278'/>
+    <box top='177' left='393' width='208' height='416'/>
+    <box top='185' left='316' width='100' height='200'/>
+    <box top='184' left='78' width='49' height='98'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001572.png'>
+    <box top='171' left='50' width='69' height='138'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001577.png'>
+    <box top='-27' left='54' width='474' height='949'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001578.png'>
+    <box top='83' left='81' width='57' height='114'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001579.png'>
+    <box top='69' left='76' width='124' height='248'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001580.png'>
+    <box top='203' left='174' width='307' height='614'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001581.png'>
+    <box top='136' left='163' width='391' height='782'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001582.png'>
+    <box top='-2' left='123' width='412' height='825'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001583.png'>
+    <box top='172' left='21' width='352' height='704'/>
+    <box top='219' left='187' width='314' height='628'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001584.png'>
+    <box top='70' left='197' width='408' height='817'/>
+    <box top='21' left='-59' width='430' height='860'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001589.png'>
+    <box top='180' left='-12' width='340' height='681'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001591.png'>
+    <box top='66' left='89' width='451' height='902'/>
+    <box top='164' left='-11' width='218' height='436'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001592.png'>
+    <box top='178' left='95' width='117' height='235'/>
+    <box top='194' left='400' width='109' height='218'/>
+    <box top='184' left='261' width='111' height='222'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001594.png'>
+    <box top='162' left='391' width='197' height='394'/>
+    <box top='209' left='275' width='157' height='315'/>
+    <box top='202' left='189' width='160' height='320'/>
+    <box top='170' left='73' width='100' height='201'/>
+    <box top='182' left='1' width='88' height='177'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001595.png'>
+    <box top='139' left='113' width='54' height='108'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001596.png'>
+    <box top='198' left='116' width='318' height='636'/>
+    <box top='191' left='228' width='325' height='650'/>
+    <box top='214' left='616' width='260' height='521'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001597.png'>
+    <box top='198' left='248' width='260' height='520'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001598.png'>
+    <box top='272' left='268' width='212' height='425'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001599.png'>
+    <box top='188' left='151' width='334' height='668'/>
+    <box top='285' left='409' width='91' height='182'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001600.png'>
+    <box top='150' left='142' width='142' height='285'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001601.png'>
+    <box top='201' left='-4' width='305' height='610'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001603.png'>
+    <box top='327' left='232' width='236' height='473'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001605.png'>
+    <box top='166' left='159' width='100' height='200'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001606.png'>
+    <box top='120' left='156' width='85' height='171'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001608.png'>
+    <box top='294' left='305' width='212' height='424'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001609.png'>
+    <box top='165' left='244' width='77' height='154'/>
+    <box top='180' left='292' width='69' height='139'/>
+    <box top='107' left='401' width='41' height='83'/>
+    <box top='113' left='503' width='41' height='83'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001610.png'>
+    <box top='150' left='306' width='111' height='222'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001611.png'>
+    <box top='339' left='292' width='184' height='369'/>
+    <box top='367' left='211' width='158' height='316'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001612.png'>
+    <box top='263' left='384' width='171' height='342'/>
+    <box top='250' left='268' width='176' height='352'/>
+    <box top='274' left='546' width='129' height='259'/>
+    <box top='267' left='387' width='168' height='337'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001613.png'>
+    <box top='169' left='294' width='172' height='344'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001614.png'>
+    <box top='337' left='524' width='129' height='259'/>
+    <box top='347' left='640' width='156' height='312'/>
+    <box top='339' left='439' width='125' height='251'/>
+    <box top='347' left='348' width='149' height='299'/>
+    <box top='443' left='323' width='102' height='204'/>
+    <box top='331' left='194' width='101' height='203'/>
+    <box top='344' left='758' width='44' height='89'/>
+    <box top='344' left='810' width='45' height='90'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001615.png'>
+    <box top='250' left='205' width='164' height='328'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001616.png'>
+    <box top='204' left='873' width='119' height='238'/>
+    <box top='193' left='620' width='184' height='369'/>
+    <box top='173' left='507' width='193' height='387'/>
+    <box top='229' left='352' width='192' height='384'/>
+    <box top='124' left='241' width='241' height='482'/>
+    <box top='160' left='127' width='216' height='433'/>
+    <box top='165' left='467' width='140' height='281'/>
+    <box top='211' left='1042' width='66' height='133'/>
+    <box top='213' left='1077' width='67' height='134'/>
+    <box top='200' left='990' width='69' height='139'/>
+    <box top='212' left='950' width='60' height='120'/>
+    <box top='199' left='839' width='71' height='142'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001617.png'>
+    <box top='265' left='277' width='173' height='346'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001618.png'>
+    <box top='230' left='189' width='255' height='510'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001619.png'>
+    <box top='289' left='85' width='262' height='525'/>
+    <box top='281' left='330' width='150' height='300'/>
+    <box top='308' left='765' width='121' height='243'/>
+    <box top='301' left='676' width='123' height='246'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001620.png'>
+    <box top='219' left='439' width='125' height='251'/>
+    <box top='236' left='130' width='125' height='250'/>
+    <box top='223' left='655' width='100' height='201'/>
+    <box top='245' left='608' width='86' height='173'/>
+    <box top='260' left='433' width='74' height='148'/>
+    <box top='254' left='561' width='57' height='114'/>
+    <box top='272' left='78' width='62' height='124'/>
+    <box top='291' left='21' width='55' height='110'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001621.png'>
+    <box top='119' left='444' width='125' height='250'/>
+    <box top='156' left='176' width='131' height='262'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001622.png'>
+    <box top='149' left='183' width='81' height='162'/>
+    <box top='160' left='223' width='78' height='156'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001623.png'>
+    <box top='192' left='520' width='352' height='704'/>
+    <box top='202' left='429' width='259' height='518'/>
+    <box top='214' left='229' width='344' height='689'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001624.png'>
+    <box top='180' left='138' width='166' height='332'/>
+    <box top='187' left='228' width='104' height='208'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001625.png'>
+    <box top='113' left='131' width='58' height='117'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001626.png'>
+    <box top='175' left='195' width='132' height='265'/>
+    <box top='159' left='152' width='69' height='139'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001627.png'>
+    <box top='185' left='229' width='327' height='654'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001628.png'>
+    <box top='129' left='45' width='284' height='568'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001629.png'>
+    <box top='186' left='370' width='269' height='539'/>
+    <box top='195' left='289' width='244' height='488'/>
+    <box top='255' left='582' width='202' height='405'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001630.png'>
+    <box top='72' left='123' width='72' height='144'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001632.png'>
+    <box top='132' left='146' width='100' height='200'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001635.png'>
+    <box top='372' left='354' width='256' height='513'/>
+    <box top='244' left='123' width='324' height='649'/>
+    <box top='258' left='580' width='102' height='205'/>
+    <box top='250' left='637' width='106' height='212'/>
+    <box top='352' left='38' width='144' height='289'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001636.png'>
+    <box top='261' left='563' width='183' height='366'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001637.png'>
+    <box top='297' left='323' width='138' height='277'/>
+    <box top='270' left='418' width='97' height='195'/>
+    <box top='253' left='485' width='205' height='411'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001640.png'>
+    <box top='120' left='210' width='366' height='732'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001642.png'>
+    <box top='231' left='425' width='245' height='491'/>
+    <box top='185' left='181' width='277' height='554'/>
+    <box top='240' left='879' width='245' height='491'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001643.png'>
+    <box top='134' left='191' width='113' height='227'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001644.png'>
+    <box top='160' left='104' width='184' height='369'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001646.png'>
+    <box top='205' left='228' width='120' height='241'/>
+    <box top='193' left='331' width='120' height='240'/>
+    <box top='227' left='403' width='124' height='249'/>
+    <box top='218' left='565' width='108' height='216'/>
+    <box top='231' left='617' width='102' height='205'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001647.png'>
+    <box top='163' left='244' width='71' height='142'/>
+    <box top='161' left='195' width='74' height='148'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001648.png'>
+    <box top='227' left='430' width='161' height='323'/>
+    <box top='244' left='215' width='120' height='240'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001649.png'>
+    <box top='283' left='479' width='254' height='509'/>
+    <box top='293' left='80' width='182' height='364'/>
+    <box top='263' left='454' width='56' height='112'/>
+    <box top='261' left='360' width='100' height='200'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001650.png'>
+    <box top='163' left='318' width='81' height='163'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001651.png'>
+    <box top='249' left='442' width='252' height='504'/>
+    <box top='233' left='237' width='203' height='406'/>
+    <box top='268' left='395' width='172' height='344'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001652.png'>
+    <box top='124' left='-25' width='350' height='700'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001655.png'>
+    <box top='237' left='406' width='146' height='293'/>
+    <box top='253' left='321' width='136' height='272'/>
+    <box top='253' left='198' width='97' height='195'/>
+    <box top='249' left='63' width='76' height='153'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001656.png'>
+    <box top='167' left='374' width='106' height='212'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001657.png'>
+    <box top='129' left='339' width='134' height='268'/>
+    <box top='133' left='132' width='128' height='256'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001662.png'>
+    <box top='213' left='213' width='67' height='134'/>
+    <box top='197' left='89' width='72' height='144'/>
+    <box top='205' left='173' width='70' height='141'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001663.png'>
+    <box top='152' left='258' width='122' height='245'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001665.png'>
+    <box top='264' left='155' width='225' height='451'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001666.png'>
+    <box top='323' left='163' width='197' height='394'/>
+    <box top='333' left='400' width='192' height='384'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001667.png'>
+    <box top='151' left='131' width='318' height='637'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001668.png'>
+    <box top='194' left='427' width='71' height='142'/>
+    <box top='145' left='169' width='68' height='137'/>
+    <box top='111' left='392' width='49' height='98'/>
+    <box top='104' left='281' width='49' height='99'/>
+    <box top='81' left='568' width='65' height='130'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001669.png'>
+    <box top='94' left='343' width='42' height='84'/>
+    <box top='237' left='574' width='50' height='101'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001671.png'>
+    <box top='262' left='227' width='278' height='557'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001672.png'>
+    <box top='231' left='193' width='290' height='581'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001673.png'>
+    <box top='153' left='194' width='174' height='348'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001674.png'>
+    <box top='167' left='177' width='296' height='592'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001675.png'>
+    <box top='281' left='184' width='170' height='341'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001677.png'>
+    <box top='112' left='124' width='58' height='116'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001678.png'>
+    <box top='86' left='136' width='56' height='113'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001679.png'>
+    <box top='277' left='761' width='279' height='558'/>
+    <box top='267' left='516' width='224' height='448'/>
+    <box top='245' left='193' width='210' height='420'/>
+    <box top='259' left='138' width='138' height='276'/>
+    <box top='291' left='441' width='186' height='373'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001680.png'>
+    <box top='172' left='127' width='110' height='220'/>
+    <box top='180' left='221' width='78' height='156'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001681.png'>
+    <box top='195' left='121' width='221' height='442'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001685.png'>
+    <box top='79' left='42' width='129' height='259'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001686.png'>
+    <box top='99' left='69' width='37' height='75'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001687.png'>
+    <box top='86' left='68' width='353' height='707'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001689.png'>
+    <box top='112' left='-47' width='339' height='678'/>
+    <box top='61' left='72' width='328' height='656'/>
+    <box top='71' left='189' width='309' height='618'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001690.png'>
+    <box top='196' left='224' width='166' height='332'/>
+    <box top='157' left='323' width='157' height='314'/>
+    <box top='188' left='510' width='158' height='317'/>
+    <box top='8' left='571' width='117' height='235'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001691.png'>
+    <box top='218' left='168' width='158' height='317'/>
+    <box top='117' left='270' width='126' height='252'/>
+    <box top='31' left='390' width='117' height='234'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001692.png'>
+    <box top='183' left='5' width='199' height='398'/>
+    <box top='267' left='138' width='204' height='408'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001693.png'>
+    <box top='164' left='219' width='117' height='235'/>
+    <box top='214' left='296' width='118' height='237'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001694.png'>
+    <box top='269' left='498' width='264' height='529'/>
+    <box top='196' left='422' width='232' height='464'/>
+    <box top='329' left='238' width='249' height='499'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001695.png'>
+    <box top='138' left='115' width='110' height='220'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001696.png'>
+    <box top='155' left='326' width='214' height='428'/>
+    <box top='186' left='617' width='214' height='429'/>
+    <box top='116' left='745' width='307' height='614'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001697.png'>
+    <box top='158' left='6' width='320' height='641'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001698.png'>
+    <box top='135' left='206' width='148' height='296'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001699.png'>
+    <box top='161' left='126' width='316' height='633'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001700.png'>
+    <box top='249' left='102' width='205' height='410'/>
+    <box top='218' left='205' width='213' height='426'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001701.png'>
+    <box top='168' left='183' width='256' height='512'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001702.png'>
+    <box top='215' left='359' width='149' height='298'/>
+    <box top='226' left='287' width='130' height='261'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001703.png'>
+    <box top='253' left='286' width='266' height='532'/>
+    <box top='264' left='155' width='254' height='508'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001705.png'>
+    <box top='206' left='296' width='174' height='348'/>
+    <box top='221' left='125' width='164' height='328'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001707.png'>
+    <box top='170' left='218' width='202' height='404'/>
+    <box top='199' left='363' width='153' height='307'/>
+    <box top='194' left='158' width='148' height='296'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001708.png'>
+    <box top='164' left='99' width='296' height='593'/>
+    <box top='173' left='73' width='139' height='278'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001709.png'>
+    <box top='104' left='257' width='58' height='116'/>
+    <box top='90' left='70' width='53' height='107'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001710.png'>
+    <box top='178' left='118' width='122' height='244'/>
+    <box top='182' left='191' width='90' height='181'/>
+    <box top='183' left='343' width='56' height='112'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001711.png'>
+    <box top='266' left='227' width='238' height='476'/>
+    <box top='294' left='169' width='168' height='337'/>
+    <box top='261' left='121' width='143' height='286'/>
+    <box top='259' left='-2' width='130' height='260'/>
+    <box top='280' left='84' width='118' height='236'/>
+    <box top='278' left='387' width='152' height='305'/>
+    <box top='266' left='486' width='207' height='414'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001712.png'>
+    <box top='239' left='371' width='192' height='385'/>
+    <box top='336' left='184' width='188' height='377'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001713.png'>
+    <box top='190' left='-4' width='324' height='649'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001714.png'>
+    <box top='250' left='87' width='231' height='462'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001717.png'>
+    <box top='107' left='188' width='108' height='217'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001720.png'>
+    <box top='353' left='139' width='115' height='230'/>
+    <box top='364' left='235' width='113' height='227'/>
+    <box top='380' left='193' width='66' height='133'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001721.png'>
+    <box top='77' left='86' width='54' height='109'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001806.png'>
+    <box top='123' left='160' width='160' height='321'/>
+    <box top='149' left='268' width='135' height='270'/>
+    <box top='167' left='99' width='126' height='252'/>
+    <box top='174' left='463' width='77' height='155'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001807.png'>
+    <box top='145' left='233' width='94' height='188'/>
+    <box top='141' left='200' width='94' height='189'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001808.png'>
+    <box top='183' left='137' width='187' height='374'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001809.png'>
+    <box top='179' left='266' width='161' height='323'/>
+    <box top='203' left='222' width='146' height='293'/>
+    <box top='214' left='106' width='147' height='294'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001810.png'>
+    <box top='236' left='167' width='187' height='374'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001811.png'>
+    <box top='144' left='86' width='217' height='434'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001812.png'>
+    <box top='138' left='265' width='121' height='243'/>
+    <box top='177' left='152' width='89' height='178'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001813.png'>
+    <box top='104' left='119' width='65' height='131'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001814.png'>
+    <box top='81' left='78' width='64' height='128'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001815.png'>
+    <box top='119' left='181' width='64' height='129'/>
+    <box top='140' left='143' width='58' height='116'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001816.png'>
+    <box top='171' left='189' width='168' height='337'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001817.png'>
+    <box top='120' left='107' width='92' height='185'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001818.png'>
+    <box top='140' left='41' width='99' height='198'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001819.png'>
+    <box top='96' left='129' width='57' height='115'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001820.png'>
+    <box top='134' left='123' width='170' height='340'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001823.png'>
+    <box top='77' left='83' width='62' height='125'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001824.png'>
+    <box top='144' left='321' width='46' height='93'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001829.png'>
+    <box top='153' left='288' width='67' height='134'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001830.png'>
+    <box top='160' left='172' width='86' height='172'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001831.png'>
+    <box top='110' left='108' width='79' height='158'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001832.png'>
+    <box top='77' left='54' width='62' height='124'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001833.png'>
+    <box top='80' left='109' width='57' height='115'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001835.png'>
+    <box top='139' left='137' width='342' height='684'/>
+    <box top='89' left='248' width='380' height='761'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001836.png'>
+    <box top='122' left='379' width='280' height='560'/>
+    <box top='113' left='463' width='296' height='593'/>
+    <box top='89' left='165' width='296' height='592'/>
+    <box top='87' left='280' width='301' height='603'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001837.png'>
+    <box top='88' left='132' width='160' height='321'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001838.png'>
+    <box top='114' left='488' width='154' height='309'/>
+    <box top='113' left='181' width='140' height='280'/>
+    <box top='128' left='32' width='128' height='256'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001839.png'>
+    <box top='113' left='349' width='174' height='348'/>
+    <box top='121' left='9' width='132' height='264'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001840.png'>
+    <box top='103' left='317' width='125' height='251'/>
+    <box top='92' left='232' width='133' height='267'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001841.png'>
+    <box top='132' left='396' width='134' height='269'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001842.png'>
+    <box top='168' left='235' width='78' height='157'/>
+    <box top='185' left='282' width='77' height='154'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/crop001843.png'>
+    <box top='161' left='406' width='134' height='269'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_044.png'>
+    <box top='139' left='4' width='76' height='153'/>
+    <box top='95' left='254' width='166' height='332'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_050.png'>
+    <box top='72' left='300' width='184' height='369'/>
+    <box top='103' left='78' width='51' height='102'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_060.png'>
+    <box top='207' left='278' width='73' height='147'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_061.png'>
+    <box top='154' left='187' width='112' height='225'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_086.png'>
+    <box top='124' left='183' width='194' height='388'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_091.png'>
+    <box top='178' left='106' width='57' height='115'/>
+    <box top='167' left='334' width='98' height='196'/>
+    <box top='160' left='151' width='173' height='346'/>
+    <box top='183' left='12' width='53' height='107'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_097.png'>
+    <box top='52' left='190' width='274' height='548'/>
+    <box top='109' left='38' width='246' height='492'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_101.png'>
+    <box top='205' left='353' width='115' height='230'/>
+    <box top='163' left='161' width='169' height='339'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_102.png'>
+    <box top='32' left='132' width='222' height='444'/>
+    <box top='89' left='20' width='100' height='201'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_103.png'>
+    <box top='211' left='204' width='88' height='177'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_106.png'>
+    <box top='261' left='213' width='76' height='153'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_111.png'>
+    <box top='94' left='109' width='265' height='530'/>
+    <box top='122' left='-8' width='172' height='345'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_112.png'>
+    <box top='60' left='190' width='306' height='613'/>
+    <box top='102' left='124' width='250' height='500'/>
+    <box top='60' left='-57' width='289' height='579'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_114.png'>
+    <box top='-10' left='-33' width='342' height='685'/>
+    <box top='42' left='157' width='317' height='634'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_117.png'>
+    <box top='124' left='133' width='238' height='476'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_119.png'>
+    <box top='141' left='131' width='193' height='387'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_121.png'>
+    <box top='116' left='147' width='190' height='381'/>
+    <box top='105' left='135' width='60' height='121'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_124.png'>
+    <box top='58' left='232' width='111' height='222'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_125.png'>
+    <box top='62' left='6' width='303' height='606'/>
+    <box top='40' left='190' width='318' height='637'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_126.png'>
+    <box top='72' left='148' width='240' height='480'/>
+    <box top='163' left='52' width='75' height='150'/>
+    <box top='145' left='110' width='82' height='165'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_128.png'>
+    <box top='89' left='161' width='124' height='248'/>
+    <box top='91' left='66' width='58' height='116'/>
+    <box top='133' left='343' width='102' height='205'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_129.png'>
+    <box top='145' left='296' width='114' height='229'/>
+    <box top='151' left='229' width='113' height='226'/>
+    <box top='200' left='159' width='84' height='169'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_130.png'>
+    <box top='61' left='252' width='187' height='374'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_131.png'>
+    <box top='162' left='190' width='118' height='237'/>
+    <box top='159' left='272' width='109' height='218'/>
+    <box top='155' left='356' width='99' height='198'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_133.png'>
+    <box top='137' left='306' width='124' height='249'/>
+    <box top='221' left='79' width='82' height='165'/>
+    <box top='165' left='219' width='110' height='220'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_139.png'>
+    <box top='114' left='466' width='124' height='249'/>
+    <box top='98' left='387' width='133' height='266'/>
+    <box top='95' left='207' width='180' height='360'/>
+    <box top='124' left='124' width='168' height='336'/>
+    <box top='106' left='27' width='144' height='289'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_141.png'>
+    <box top='108' left='237' width='136' height='272'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_142.png'>
+    <box top='191' left='112' width='110' height='221'/>
+    <box top='-14' left='211' width='230' height='460'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_143.png'>
+    <box top='42' left='257' width='180' height='360'/>
+    <box top='60' left='188' width='164' height='328'/>
+    <box top='57' left='71' width='171' height='342'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_156.png'>
+    <box top='187' left='324' width='113' height='226'/>
+    <box top='171' left='220' width='135' height='270'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_160.png'>
+    <box top='118' left='199' width='157' height='315'/>
+    <box top='101' left='33' width='177' height='355'/>
+    <box top='105' left='317' width='165' height='330'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_162.png'>
+    <box top='134' left='286' width='154' height='309'/>
+    <box top='136' left='175' width='152' height='305'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_165.png'>
+    <box top='192' left='267' width='90' height='181'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_166.png'>
+    <box top='144' left='319' width='121' height='243'/>
+    <box top='140' left='222' width='129' height='258'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_167.png'>
+    <box top='145' left='285' width='117' height='234'/>
+    <box top='166' left='239' width='103' height='206'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_168.png'>
+    <box top='199' left='236' width='66' height='132'/>
+    <box top='186' left='301' width='73' height='147'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_169.png'>
+    <box top='112' left='259' width='153' height='306'/>
+    <box top='106' left='147' width='161' height='322'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_170.png'>
+    <box top='133' left='399' width='130' height='260'/>
+    <box top='139' left='185' width='134' height='269'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_171.png'>
+    <box top='150' left='266' width='142' height='285'/>
+    <box top='169' left='188' width='121' height='243'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_172.png'>
+    <box top='170' left='360' width='109' height='218'/>
+    <box top='166' left='272' width='112' height='224'/>
+    <box top='174' left='226' width='80' height='161'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_173.png'>
+    <box top='110' left='344' width='168' height='336'/>
+    <box top='117' left='268' width='156' height='312'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_174.png'>
+    <box top='84' left='295' width='153' height='306'/>
+    <box top='171' left='152' width='107' height='214'/>
+    <box top='215' left='423' width='81' height='162'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_175.png'>
+    <box top='139' left='165' width='98' height='196'/>
+    <box top='119' left='527' width='110' height='220'/>
+    <box top='141' left='448' width='85' height='171'/>
+    <box top='129' left='84' width='105' height='210'/>
+    <box top='126' left='332' width='94' height='188'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_176.png'>
+    <box top='81' left='325' width='183' height='366'/>
+    <box top='90' left='207' width='176' height='353'/>
+    <box top='138' left='150' width='68' height='136'/>
+    <box top='131' left='57' width='69' height='139'/>
+    <box top='132' left='6' width='68' height='136'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_177.png'>
+    <box top='107' left='197' width='156' height='312'/>
+    <box top='122' left='299' width='142' height='284'/>
+    <box top='143' left='512' width='74' height='149'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_178.png'>
+    <box top='142' left='347' width='136' height='273'/>
+    <box top='137' left='419' width='149' height='298'/>
+    <box top='114' left='131' width='160' height='320'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_179.png'>
+    <box top='116' left='258' width='168' height='336'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_181.png'>
+    <box top='158' left='359' width='116' height='232'/>
+    <box top='164' left='249' width='117' height='235'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_185.png'>
+    <box top='158' left='365' width='118' height='236'/>
+    <box top='170' left='282' width='119' height='238'/>
+    <box top='190' left='206' width='94' height='189'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_187.png'>
+    <box top='205' left='260' width='112' height='224'/>
+    <box top='219' left='320' width='110' height='221'/>
+    <box top='255' left='385' width='94' height='189'/>
+    <box top='196' left='469' width='109' height='219'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_195.png'>
+    <box top='150' left='300' width='120' height='240'/>
+    <box top='175' left='238' width='107' height='214'/>
+    <box top='159' left='37' width='107' height='214'/>
+    <box top='168' left='4' width='94' height='188'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_196.png'>
+    <box top='51' left='297' width='184' height='369'/>
+    <box top='77' left='159' width='165' height='331'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_199.png'>
+    <box top='170' left='112' width='123' height='246'/>
+    <box top='158' left='184' width='122' height='245'/>
+    <box top='155' left='260' width='128' height='257'/>
+    <box top='168' left='317' width='116' height='232'/>
+    <box top='166' left='517' width='67' height='134'/>
+    <box top='178' left='367' width='90' height='181'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_201.png'>
+    <box top='210' left='294' width='70' height='141'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_202.png'>
+    <box top='91' left='163' width='152' height='304'/>
+    <box top='135' left='407' width='126' height='252'/>
+    <box top='95' left='333' width='93' height='186'/>
+    <box top='98' left='525' width='84' height='168'/>
+    <box top='107' left='259' width='71' height='142'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_203.png'>
+    <box top='190' left='174' width='64' height='129'/>
+    <box top='196' left='458' width='62' height='124'/>
+    <box top='199' left='339' width='59' height='118'/>
+    <box top='193' left='217' width='61' height='122'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_208.png'>
+    <box top='82' left='261' width='194' height='388'/>
+    <box top='81' left='403' width='82' height='164'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_209.png'>
+    <box top='132' left='200' width='135' height='270'/>
+    <box top='123' left='273' width='188' height='377'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_211.png'>
+    <box top='142' left='361' width='144' height='289'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_214.png'>
+    <box top='112' left='358' width='172' height='345'/>
+    <box top='108' left='142' width='172' height='345'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_219.png'>
+    <box top='108' left='328' width='174' height='349'/>
+    <box top='170' left='267' width='136' height='272'/>
+    <box top='143' left='88' width='89' height='179'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_220.png'>
+    <box top='107' left='213' width='86' height='173'/>
+    <box top='107' left='296' width='82' height='165'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_221.png'>
+    <box top='126' left='303' width='123' height='246'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_223.png'>
+    <box top='33' left='165' width='216' height='432'/>
+    <box top='36' left='320' width='197' height='395'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_224.png'>
+    <box top='88' left='185' width='186' height='373'/>
+    <box top='121' left='278' width='145' height='291'/>
+    <box top='105' left='339' width='162' height='325'/>
+    <box top='154' left='448' width='126' height='252'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_225.png'>
+    <box top='35' left='163' width='212' height='424'/>
+    <box top='32' left='354' width='218' height='436'/>
+    <box top='-7' left='23' width='193' height='386'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_228.png'>
+    <box top='82' left='184' width='171' height='342'/>
+    <box top='81' left='249' width='189' height='379'/>
+    <box top='91' left='125' width='61' height='123'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_229.png'>
+    <box top='60' left='302' width='222' height='445'/>
+    <box top='64' left='168' width='220' height='441'/>
+    <box top='90' left='304' width='80' height='161'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_231.png'>
+    <box top='72' left='307' width='202' height='405'/>
+    <box top='32' left='201' width='234' height='468'/>
+    <box top='82' left='67' width='187' height='374'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_232.png'>
+    <box top='-18' left='151' width='250' height='501'/>
+    <box top='41' left='309' width='222' height='444'/>
+    <box top='67' left='28' width='89' height='178'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_233.png'>
+    <box top='148' left='150' width='141' height='282'/>
+    <box top='149' left='396' width='135' height='270'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_234.png'>
+    <box top='157' left='214' width='109' height='218'/>
+    <box top='147' left='315' width='112' height='225'/>
+    <box top='155' left='99' width='93' height='186'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_235.png'>
+    <box top='93' left='164' width='189' height='378'/>
+    <box top='47' left='323' width='201' height='403'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_237.png'>
+    <box top='103' left='277' width='162' height='324'/>
+    <box top='121' left='197' width='152' height='305'/>
+    <box top='123' left='493' width='53' height='107'/>
+    <box top='132' left='445' width='50' height='100'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_238.png'>
+    <box top='70' left='305' width='188' height='377'/>
+    <box top='103' left='154' width='166' height='333'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_239.png'>
+    <box top='60' left='234' width='197' height='394'/>
+    <box top='56' left='147' width='205' height='411'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_240.png'>
+    <box top='77' left='168' width='205' height='410'/>
+    <box top='52' left='277' width='210' height='420'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_241.png'>
+    <box top='63' left='178' width='192' height='384'/>
+    <box top='72' left='317' width='185' height='371'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_242.png'>
+    <box top='68' left='195' width='200' height='400'/>
+    <box top='23' left='314' width='221' height='442'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_243.png'>
+    <box top='119' left='78' width='162' height='324'/>
+    <box top='114' left='142' width='164' height='328'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_244.png'>
+    <box top='89' left='176' width='169' height='339'/>
+    <box top='37' left='253' width='217' height='434'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_245.png'>
+    <box top='28' left='74' width='216' height='433'/>
+    <box top='160' left='214' width='141' height='283'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_252.png'>
+    <box top='117' left='353' width='167' height='334'/>
+    <box top='153' left='181' width='145' height='290'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_253.png'>
+    <box top='124' left='311' width='167' height='334'/>
+    <box top='105' left='106' width='135' height='270'/>
+    <box top='120' left='229' width='119' height='238'/>
+    <box top='165' left='184' width='106' height='212'/>
+    <box top='133' left='73' width='55' height='110'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_254.png'>
+    <box top='112' left='245' width='136' height='272'/>
+    <box top='91' left='171' width='157' height='315'/>
+    <box top='172' left='366' width='110' height='220'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_256.png'>
+    <box top='77' left='288' width='189' height='379'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_257.png'>
+    <box top='174' left='331' width='98' height='196'/>
+    <box top='176' left='253' width='98' height='196'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_258.png'>
+    <box top='162' left='354' width='86' height='173'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_259.png'>
+    <box top='161' left='319' width='93' height='187'/>
+    <box top='159' left='251' width='94' height='189'/>
+    <box top='169' left='160' width='85' height='171'/>
+    <box top='173' left='212' width='82' height='165'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_260.png'>
+    <box top='171' left='325' width='74' height='149'/>
+    <box top='184' left='276' width='70' height='140'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_266.png'>
+    <box top='38' left='56' width='226' height='452'/>
+    <box top='81' left='516' width='120' height='241'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_269.png'>
+    <box top='37' left='98' width='226' height='452'/>
+    <box top='34' left='213' width='208' height='417'/>
+    <box top='49' left='309' width='209' height='418'/>
+    <box top='51' left='404' width='227' height='454'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_270.png'>
+    <box top='64' left='294' width='219' height='438'/>
+    <box top='38' left='155' width='233' height='466'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_273.png'>
+    <box top='162' left='468' width='85' height='171'/>
+    <box top='167' left='516' width='79' height='158'/>
+    <box top='176' left='256' width='157' height='314'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_274.png'>
+    <box top='129' left='260' width='133' height='266'/>
+    <box top='97' left='409' width='202' height='405'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_275.png'>
+    <box top='169' left='247' width='122' height='245'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_279.png'>
+    <box top='192' left='450' width='92' height='185'/>
+    <box top='214' left='245' width='100' height='200'/>
+    <box top='169' left='177' width='84' height='168'/>
+    <box top='178' left='114' width='68' height='137'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_281.png'>
+    <box top='120' left='263' width='147' height='294'/>
+    <box top='129' left='173' width='103' height='206'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_283.png'>
+    <box top='99' left='262' width='196' height='392'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_284.png'>
+    <box top='128' left='238' width='128' height='257'/>
+    <box top='111' left='553' width='59' height='118'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_285.png'>
+    <box top='157' left='252' width='113' height='227'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_286.png'>
+    <box top='121' left='356' width='78' height='157'/>
+    <box top='92' left='170' width='168' height='337'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_287.png'>
+    <box top='132' left='234' width='144' height='288'/>
+    <box top='128' left='423' width='102' height='204'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_288.png'>
+    <box top='135' left='156' width='153' height='307'/>
+    <box top='125' left='232' width='153' height='307'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_289.png'>
+    <box top='157' left='296' width='140' height='280'/>
+    <box top='146' left='228' width='157' height='314'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_291.png'>
+    <box top='121' left='192' width='189' height='378'/>
+    <box top='123' left='288' width='189' height='378'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_292.png'>
+    <box top='146' left='251' width='149' height='299'/>
+    <box top='154' left='224' width='94' height='188'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_294.png'>
+    <box top='154' left='251' width='136' height='273'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_295.png'>
+    <box top='121' left='221' width='148' height='296'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_296.png'>
+    <box top='100' left='180' width='186' height='373'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_297.png'>
+    <box top='136' left='278' width='151' height='302'/>
+    <box top='144' left='238' width='133' height='266'/>
+    <box top='132' left='166' width='144' height='289'/>
+    <box top='171' left='-8' width='74' height='148'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_298.png'>
+    <box top='136' left='214' width='154' height='309'/>
+    <box top='212' left='326' width='100' height='200'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_299.png'>
+    <box top='99' left='141' width='194' height='389'/>
+    <box top='200' left='291' width='123' height='246'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_300.png'>
+    <box top='85' left='231' width='169' height='338'/>
+    <box top='62' left='324' width='66' height='133'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_301.png'>
+    <box top='138' left='235' width='145' height='290'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_302.png'>
+    <box top='141' left='308' width='161' height='322'/>
+    <box top='137' left='172' width='175' height='350'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_304.png'>
+    <box top='59' left='250' width='213' height='427'/>
+    <box top='56' left='40' width='139' height='278'/>
+    <box top='53' left='102' width='126' height='253'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_305.png'>
+    <box top='167' left='260' width='98' height='196'/>
+    <box top='171' left='143' width='141' height='282'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_319.png'>
+    <box top='174' left='259' width='114' height='228'/>
+    <box top='149' left='141' width='100' height='201'/>
+    <box top='164' left='550' width='61' height='122'/>
+    <box top='161' left='585' width='58' height='116'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_320.png'>
+    <box top='122' left='296' width='188' height='377'/>
+    <box top='102' left='225' width='174' height='349'/>
+    <box top='120' left='468' width='57' height='114'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_321.png'>
+    <box top='162' left='372' width='61' height='123'/>
+    <box top='157' left='423' width='67' height='134'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_324.png'>
+    <box top='152' left='366' width='81' height='163'/>
+    <box top='152' left='412' width='86' height='172'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_327.png'>
+    <box top='94' left='187' width='126' height='252'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_328.png'>
+    <box top='219' left='80' width='70' height='140'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_329.png'>
+    <box top='103' left='408' width='118' height='236'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_331.png'>
+    <box top='130' left='272' width='104' height='209'/>
+    <box top='133' left='380' width='79' height='158'/>
+    <box top='36' left='104' width='232' height='464'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_333.png'>
+    <box top='157' left='203' width='94' height='189'/>
+    <box top='165' left='293' width='64' height='128'/>
+    <box top='180' left='167' width='81' height='163'/>
+    <box top='163' left='359' width='62' height='125'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_334.png'>
+    <box top='55' left='228' width='223' height='446'/>
+    <box top='61' left='120' width='218' height='436'/>
+    <box top='107' left='341' width='158' height='316'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_339.png'>
+    <box top='134' left='28' width='153' height='307'/>
+    <box top='139' left='161' width='88' height='177'/>
+    <box top='131' left='192' width='84' height='169'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_340.png'>
+    <box top='96' left='260' width='171' height='342'/>
+    <box top='99' left='139' width='170' height='340'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_341.png'>
+    <box top='36' left='193' width='215' height='430'/>
+    <box top='82' left='138' width='155' height='310'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_342.png'>
+    <box top='171' left='200' width='128' height='257'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_343.png'>
+    <box top='177' left='190' width='98' height='197'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_344.png'>
+    <box top='57' left='36' width='165' height='330'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_346.png'>
+    <box top='143' left='184' width='142' height='284'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_348.png'>
+    <box top='142' left='214' width='90' height='181'/>
+    <box top='141' left='46' width='92' height='185'/>
+    <box top='154' left='303' width='91' height='182'/>
+    <box top='161' left='121' width='65' height='130'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_349.png'>
+    <box top='65' left='411' width='218' height='437'/>
+    <box top='78' left='283' width='205' height='411'/>
+    <box top='112' left='8' width='145' height='290'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_356.png'>
+    <box top='87' left='91' width='268' height='536'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_357.png'>
+    <box top='171' left='320' width='109' height='218'/>
+    <box top='188' left='380' width='106' height='213'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_358.png'>
+    <box top='211' left='239' width='78' height='156'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_376.png'>
+    <box top='176' left='190' width='83' height='166'/>
+    <box top='185' left='264' width='76' height='153'/>
+    <box top='173' left='363' width='68' height='136'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_377.png'>
+    <box top='182' left='311' width='94' height='189'/>
+    <box top='187' left='435' width='62' height='125'/>
+    <box top='205' left='14' width='66' height='133'/>
+    <box top='199' left='48' width='68' height='137'/>
+    <box top='194' left='396' width='61' height='122'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_378.png'>
+    <box top='221' left='61' width='72' height='145'/>
+    <box top='211' left='96' width='78' height='156'/>
+    <box top='221' left='275' width='64' height='128'/>
+    <box top='228' left='342' width='57' height='114'/>
+    <box top='221' left='445' width='54' height='109'/>
+    <box top='223' left='177' width='56' height='112'/>
+    <box top='209' left='-10' width='77' height='154'/>
+    <box top='221' left='486' width='52' height='105'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_387.png'>
+    <box top='133' left='187' width='156' height='312'/>
+    <box top='154' left='251' width='133' height='267'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_395.png'>
+    <box top='155' left='131' width='87' height='174'/>
+    <box top='163' left='192' width='85' height='171'/>
+    <box top='196' left='318' width='48' height='97'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_414.png'>
+    <box top='108' left='253' width='106' height='212'/>
+    <box top='106' left='84' width='105' height='210'/>
+    <box top='100' left='469' width='66' height='133'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_425.png'>
+    <box top='64' left='42' width='93' height='187'/>
+    <box top='71' left='164' width='68' height='137'/>
+    <box top='83' left='115' width='60' height='121'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_002.png'>
+    <box top='70' left='137' width='187' height='374'/>
+    <box top='110' left='11' width='71' height='142'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_003.png'>
+    <box top='137' left='153' width='180' height='360'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_005.png'>
+    <box top='181' left='157' width='93' height='187'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_007.png'>
+    <box top='19' left='200' width='207' height='414'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_008.png'>
+    <box top='147' left='198' width='120' height='240'/>
+    <box top='140' left='266' width='132' height='264'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_009.png'>
+    <box top='163' left='299' width='108' height='217'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_010.png'>
+    <box top='90' left='252' width='140' height='280'/>
+    <box top='87' left='550' width='58' height='116'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_011.png'>
+    <box top='177' left='329' width='64' height='128'/>
+    <box top='181' left='388' width='53' height='107'/>
+    <box top='184' left='274' width='60' height='120'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_013.png'>
+    <box top='128' left='2' width='130' height='261'/>
+    <box top='119' left='261' width='103' height='206'/>
+    <box top='130' left='482' width='182' height='364'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_015.png'>
+    <box top='99' left='313' width='141' height='282'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_016.png'>
+    <box top='154' left='77' width='83' height='166'/>
+    <box top='157' left='6' width='70' height='141'/>
+    <box top='132' left='275' width='108' height='216'/>
+    <box top='151' left='46' width='72' height='144'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_017.png'>
+    <box top='177' left='268' width='66' height='132'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_019.png'>
+    <box top='12' left='217' width='214' height='429'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_020.png'>
+    <box top='184' left='350' width='116' height='232'/>
+    <box top='164' left='283' width='84' height='169'/>
+    <box top='172' left='327' width='76' height='152'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_021.png'>
+    <box top='152' left='264' width='117' height='235'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_022.png'>
+    <box top='172' left='281' width='114' height='229'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_023.png'>
+    <box top='120' left='274' width='147' height='294'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_026.png'>
+    <box top='163' left='559' width='76' height='153'/>
+    <box top='151' left='311' width='145' height='290'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_030.png'>
+    <box top='113' left='308' width='150' height='300'/>
+    <box top='146' left='240' width='80' height='160'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_031.png'>
+    <box top='154' left='301' width='93' height='187'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_033.png'>
+    <box top='99' left='476' width='88' height='177'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_034.png'>
+    <box top='162' left='284' width='88' height='176'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_036.png'>
+    <box top='171' left='341' width='67' height='134'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_039.png'>
+    <box top='79' left='199' width='166' height='332'/>
+    <box top='81' left='134' width='157' height='315'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_040.png'>
+    <box top='132' left='396' width='73' height='146'/>
+    <box top='140' left='520' width='76' height='153'/>
+    <box top='157' left='465' width='66' height='132'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_074.png'>
+    <box top='112' left='287' width='97' height='194'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_075.png'>
+    <box top='49' left='160' width='198' height='396'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_078.png'>
+    <box top='38' left='252' width='163' height='326'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_117.png'>
+    <box top='71' left='103' width='266' height='533'/>
+    <box top='117' left='89' width='51' height='102'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_118.png'>
+    <box top='23' left='48' width='324' height='649'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_119.png'>
+    <box top='75' left='197' width='198' height='396'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_120.png'>
+    <box top='120' left='91' width='144' height='289'/>
+    <box top='113' left='340' width='164' height='329'/>
+    <box top='145' left='66' width='73' height='147'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_121.png'>
+    <box top='87' left='260' width='137' height='274'/>
+    <box top='104' left='352' width='138' height='277'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_123.png'>
+    <box top='155' left='312' width='100' height='201'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_124.png'>
+    <box top='154' left='266' width='92' height='185'/>
+    <box top='168' left='5' width='64' height='129'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_125.png'>
+    <box top='114' left='173' width='118' height='237'/>
+    <box top='136' left='316' width='81' height='162'/>
+    <box top='113' left='425' width='157' height='315'/>
+    <box top='138' left='67' width='62' height='125'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_127.png'>
+    <box top='42' left='277' width='201' height='402'/>
+    <box top='209' left='236' width='117' height='235'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_128.png'>
+    <box top='204' left='241' width='101' height='203'/>
+    <box top='105' left='320' width='148' height='296'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_129.png'>
+    <box top='180' left='183' width='89' height='178'/>
+    <box top='175' left='464' width='85' height='170'/>
+    <box top='184' left='393' width='66' height='132'/>
+    <box top='181' left='275' width='65' height='131'/>
+    <box top='187' left='117' width='72' height='144'/>
+    <box top='186' left='343' width='40' height='80'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_130.png'>
+    <box top='173' left='267' width='80' height='160'/>
+    <box top='174' left='334' width='84' height='169'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_132.png'>
+    <box top='151' left='371' width='134' height='269'/>
+    <box top='181' left='249' width='111' height='222'/>
+    <box top='185' left='288' width='104' height='208'/>
+    <box top='169' left='171' width='66' height='132'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_134.png'>
+    <box top='100' left='207' width='171' height='342'/>
+    <box top='87' left='289' width='174' height='348'/>
+    <box top='107' left='82' width='145' height='291'/>
+    <box top='117' left='497' width='68' height='136'/>
+    <box top='136' left='420' width='57' height='114'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_135.png'>
+    <box top='100' left='246' width='142' height='284'/>
+    <box top='104' left='174' width='144' height='289'/>
+    <box top='152' left='367' width='119' height='238'/>
+    <box top='113' left='472' width='61' height='122'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_137.png'>
+    <box top='105' left='298' width='165' height='330'/>
+    <box top='137' left='220' width='148' height='296'/>
+    <box top='138' left='551' width='80' height='161'/>
+    <box top='147' left='61' width='82' height='164'/>
+    <box top='135' left='157' width='72' height='145'/>
+    <box top='148' left='102' width='65' height='131'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_138.png'>
+    <box top='159' left='307' width='97' height='195'/>
+    <box top='155' left='442' width='42' height='85'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_139.png'>
+    <box top='117' left='233' width='156' height='313'/>
+    <box top='201' left='210' width='58' height='117'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_142.png'>
+    <box top='52' left='212' width='218' height='437'/>
+    <box top='54' left='314' width='212' height='425'/>
+    <box top='115' left='55' width='102' height='205'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_143.png'>
+    <box top='161' left='520' width='102' height='205'/>
+    <box top='165' left='261' width='72' height='145'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_146.png'>
+    <box top='89' left='194' width='181' height='363'/>
+    <box top='234' left='305' width='102' height='204'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_147.png'>
+    <box top='127' left='250' width='158' height='316'/>
+    <box top='139' left='135' width='145' height='290'/>
+    <box top='136' left='74' width='65' height='131'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_148.png'>
+    <box top='111' left='126' width='191' height='382'/>
+    <box top='104' left='330' width='158' height='317'/>
+    <box top='104' left='467' width='116' height='233'/>
+    <box top='105' left='539' width='84' height='168'/>
+    <box top='115' left='297' width='57' height='115'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_150.png'>
+    <box top='154' left='217' width='111' height='222'/>
+    <box top='179' left='355' width='88' height='177'/>
+    <box top='157' left='293' width='112' height='224'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_151.png'>
+    <box top='101' left='296' width='129' height='259'/>
+    <box top='107' left='159' width='100' height='201'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_152.png'>
+    <box top='120' left='201' width='102' height='204'/>
+    <box top='97' left='149' width='85' height='171'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_155.png'>
+    <box top='6' left='212' width='249' height='498'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_156.png'>
+    <box top='105' left='347' width='117' height='235'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_157.png'>
+    <box top='54' left='295' width='182' height='365'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_166.png'>
+    <box top='84' left='311' width='160' height='321'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_191.png'>
+    <box top='126' left='244' width='162' height='325'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_207.png'>
+    <box top='100' left='290' width='114' height='228'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_208.png'>
+    <box top='84' left='248' width='162' height='324'/>
+  </image>
+  <image file='E:/INRIAPerson/Train/pos/person_and_bike_209.png'>
+    <box top='98' left='319' width='116' height='233'/>
+  </image>
+</images>
+</dataset>
